@@ -47,7 +47,7 @@ function getHistory( from ){
 		prop: 'revisions',
 		titles: mw.config.get( 'wgPageName' ),
 		indexpageids: 1,
-		rvlimit: 500,
+		rvlimit: 50,
 		rvdir: 'newer',
 		rvprop: 'ids|content'
 	};
