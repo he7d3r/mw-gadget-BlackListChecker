@@ -2,7 +2,6 @@
  * Includes the number of the revision when each site was added to the blacklist
  * @author: Helder (https://github.com/he7d3r)
  * @license: CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/>
- * @tracking: [[Special:GlobalUsage/User:Helder.wiki/Tools/BlackListChecker.js]] ([[File:User:Helder.wiki/Tools/BlackListChecker.js]])
  */
 /*jslint browser: true, white: true, plusplus: true, regexp: true, devel: true */
 /*global jQuery, mediaWiki */
