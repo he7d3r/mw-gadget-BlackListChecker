@@ -47,7 +47,8 @@
 			indexpageids: 1,
 			rvlimit: 50,
 			rvdir: 'newer',
-			rvprop: 'ids|content'
+			rvprop: 'ids|content',
+			rawcontinue: 1
 		};
 		if ( from ) {
 			data.rvcontinue = from;
