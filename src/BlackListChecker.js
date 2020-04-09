@@ -93,7 +93,7 @@
 			'Inclui o número da revisão em que cada site foi bloqueado'
 		) ).click( function ( e ) {
 			e.preventDefault();
-			mw.loader.using( [ 'mediawiki.api', 'mediawiki.notify', 'jquery.spinner' ], run );
+			mw.loader.using( [ 'mediawiki.api', 'jquery.spinner' ], run );
 		} );
 	}
 
